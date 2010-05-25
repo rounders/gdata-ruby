@@ -42,7 +42,7 @@ spec = Gem::Specification.new do |s|
   s.summary = "Google Data APIs Ruby Utility Library"
   s.rubyforge_project = 'rounders-gdata-ruby'
   s.name = 'rounders-gdata-ruby'
-  s.version = '1.1.1'
+  s.version = '1.1.2'
   s.requirements << 'none'
   s.require_path = 'lib'
   s.test_files = FileList['test/ts_gdata.rb']
