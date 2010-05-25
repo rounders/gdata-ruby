@@ -36,12 +36,12 @@ end
 
 spec = Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
-  s.author = 'Jeff Fisher'
-  s.email = 'jfisher@youtube.com'
-  s.homepage = 'http://code.google.com/p/gdata-ruby-util'
+  s.author = 'Rounders'
+  s.email = 'francois@rounders.ca'
+  s.homepage = 'http://github.com/rounders/gdata-ruby'
   s.summary = "Google Data APIs Ruby Utility Library"
-  s.rubyforge_project = 'gdata'
-  s.name = 'gdata'
+  s.rubyforge_project = 'rounders-gdata-ruby'
+  s.name = 'rounders-gdata-ruby'
   s.version = '1.1.1'
   s.requirements << 'none'
   s.require_path = 'lib'

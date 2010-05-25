@@ -28,6 +28,7 @@ require 'gdata/client/photos'
 require 'gdata/client/spreadsheets'
 require 'gdata/client/webmaster_tools'
 require 'gdata/client/youtube'
+require 'gdata/client/maps'
   
 module GData
   module Client
